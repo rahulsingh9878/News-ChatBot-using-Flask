@@ -19,6 +19,6 @@ urllib3==1.23
 utils==0.9.0
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wit==5.1.0
 WTForms==2.2.1
